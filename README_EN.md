@@ -8,11 +8,10 @@
 <a href="https://app.netlify.com/sites/friendly-paprenjak-ad64b7/deploys"><img src="https://api.netlify.com/api/v1/badges/39d29171-f3b1-4172-932e-1f657058303a/deploy-status" alt="Netlify Status" /></a>
 </p>
 
-[中文](./README.md) | English
 
 A special way to wish someone happy birthday.
 
-Preview: <https://friendly-paprenjak-ad64b7.netlify.app/>
+Preview: (https://yanyue83.github.io/Happy_birthday_web/)
 
 ## Project Highlights
 
@@ -22,43 +21,9 @@ Preview: <https://friendly-paprenjak-ad64b7.netlify.app/>
 4. Auto-play beautiful background music to create a warm and romantic atmosphere
 5. Built with modern rspack for better performance
 
-## Project Background
-
-Used to wish happy birthday to someone special or your lover, creating a romantic atmosphere. For the story behind the project, you can read my Zhihu blog post: [Thoughts on Website Background Music from Birthday Celebrations](https://zhuanlan.zhihu.com/p/677636150)
-
 ## Usage
 
 Fork this project, modify the customize.json file by replacing its contents with your own, then deploy it on github pages or other hosting sites (like netlify).
-- Vercel deploy
-
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fabandon888%2FHappyBirthday&project-name=happy-birthday)
-
-- Netlify deploy
-
-   [![Deploy with NEtlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/abandon888/HappyBirthday)
-> You don't need to create PR to this repository
-
-You can modify text, images, background music, fonts, etc., but there are some things to note:
-
-1. Only modify the customize.json file, do not modify other files, otherwise the page may not display properly.
-2. When replacing music, make sure to rename to the same music filename or modify the path in the json file, like `bgMusic.mp3` here
-3. When replacing images, the birthday hat might be offset. It's recommended to crop images to the same size as the original for best viewing effect.
-4. For font replacement, just modify the font configuration in json. You can use local fonts or online fonts (like Google Fonts). The project has built-in `LXGW WenKai` font file ready to use. Note that font only supports one font configuration.
-  Usage example:
-
-  ```json
-    "fonts": [
-      {
-        "name": "Ma Shan Zheng",
-        "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
-      },
-    //or use local font, but can only use one font at a time
-    // {
-    //     "name": "LXGW WenKai",
-    //     "path":"./fonts/LXGWWenKai-Regular.ttf"
-    //   } 
-    ]
-  ```
 
 ## Local Development/Preview
 
