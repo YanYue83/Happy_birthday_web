@@ -1,0 +1,28 @@
+{
+  "greeting": "Nhô",
+  "name": "Bạn Phưn aka Hải Ly ỏn ẻn 🦫",
+  "greetingText": "Đoán xem cái này là gì nào (～￣▽￣)～",
+  "wishText": "Chúc chụy hay ăn chóng lớn, nhanh giàu, mãi vui!!",
+  "imagePath": "img/phun.jpg",
+  "text1": "Đúng ròi, hôm nay là sinh nhật của bạng đó :D",
+  "textInChatBox": "Háp pi bớt đây to chụy Phưn 🎉 Chúc chụy hay ăn chóng lớn, giàuuu...",
+  "sendButtonLabel": "Gửi",
+  "text2": "Người bình thường sẽ chúc như vậy.",
+  "text3": "Nhưng, ngay sau đó toi ngừng lại và suy nghĩ... ",
+  "text4": "Toi là dân dev cơ mà 😎, vậy nên lời chúc cũng phải thật",
+  "text4Adjective": "ĐẶC BIỆT",
+  "text5Entry": "Bởi vì, ",
+  "text5Content": "Nay là ngày đặc biệt với bạng",
+  "smiley": ":)",
+  "bigTextPart1": "Ú",
+  "bigTextPart2": "Òa",
+  "wishHeading": "Chúc mừng năm mới!",
+  "outroText": "Quà chưa hết đâu nhá!",
+  "replayText": "Nhấn vô đây để xem tiếp nà",
+  "outroSmiley": ":)",
+  "music": "./music/bgMusic.mp3"
+
+}
+
+
+
