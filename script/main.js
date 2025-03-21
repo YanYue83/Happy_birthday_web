@@ -321,7 +321,7 @@ const animationTimeline = () => {
   const replyBtn = document.getElementById("replay");
 
   replyBtn.addEventListener("click", () => {
-    window.location.href = "https://yanyue83.github.io/Happy_birthday_web/script/Gift.html"; 
+    window.location.href = "https://yanyue83.github.io/Happy_birthday_web/Gift.html"; 
   });
   
 
