@@ -317,13 +317,14 @@ const animationTimeline = () => {
   // tl.seek("currentStep");
   // tl.timeScale(2);
 
-  // Restart Animation on click
-  const replyBtn = document.getElementById("replay");
+  /* Restart Animation on click
+  // const replyBtn = document.getElementById("replay");
 
-  replyBtn.addEventListener("click", () => {
-    window.location.href = "https://yanyue83.github.io/Happy_birthday_web/Gift.html"; 
+   replyBtn.addEventListener("click", () => {
+    fetchData()
+
   });
-  
+  */
 
 }
 
